@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83775a18-ddff-4915-9002-fb2abaccdc7f": {
+      "ProjectGuid": "83775a18-ddff-4915-9002-fb2abaccdc7f",
+      "DisplayName": "MarsRover",
+      "ColorIndex": 0
+    },
+    "4b913984-13e8-49f9-bacf-bc251a189120": {
+      "ProjectGuid": "4b913984-13e8-49f9-bacf-bc251a189120",
+      "DisplayName": "MarsRoverTest",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

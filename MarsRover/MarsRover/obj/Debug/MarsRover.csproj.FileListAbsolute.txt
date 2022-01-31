@@ -1,0 +1,8 @@
+E:\Interview\Codec\MarsRover\MarsRover\bin\Debug\MarsRover.exe.config
+E:\Interview\Codec\MarsRover\MarsRover\bin\Debug\MarsRover.exe
+E:\Interview\Codec\MarsRover\MarsRover\bin\Debug\MarsRover.pdb
+E:\Interview\Codec\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.SuggestedBindingRedirects.cache
+E:\Interview\Codec\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.CoreCompileInputs.cache
+E:\Interview\Codec\MarsRover\MarsRover\obj\Debug\MarsRover.exe
+E:\Interview\Codec\MarsRover\MarsRover\obj\Debug\MarsRover.pdb
+E:\Interview\Codec\MarsRover\MarsRover\obj\Debug\MarsRover.csproj.AssemblyReference.cache
