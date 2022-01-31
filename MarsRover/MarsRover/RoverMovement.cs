@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace MarsRover
 {
+    /// <summary>
+    /// Rover Movement.
+    /// </summary>
     public class RoverMovement : IRoverMovement
     {
         /// <summary>
